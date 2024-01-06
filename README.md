@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![readmebox](./assets/Animation.svg)
+![readmebox](./assets/snoopy.svg)
+
 <!--
 **ianbokser/ianbokser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
